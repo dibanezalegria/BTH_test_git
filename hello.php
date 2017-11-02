@@ -6,6 +6,6 @@
     </head>
     <body>
         <h1>Hello</h1>
-        <?php echo "Testing Git repository"; ?>
+        <?php echo "Testing Git"; ?>
     </body>
 </html>
